@@ -93,6 +93,12 @@ let costMatrix = [
     [8,  8,  9,  0]
 ]
 
+// [[  0, 22, 10, 25, 40 ],  
+// [ 15,  0, 30,  8, 20 ], 
+// [ 12, 35,  0, 18, 14 ], 
+// [ 28,  9, 17,  0, 32 ], 
+// [ 35, 24, 11,  5,  0 ]] 
+
 print("Graf dalam representasi matriks adjacency: ")
 
 for i in 0..<costMatrix.count {

@@ -22,6 +22,7 @@ swiftc solver.swift -o solver
 
 ## Uji Kasus
 ![Contoh Kasus](contoh.png)
+![Contoh Kasus juga](contoh2.png)
 
 ## Author
 Aria Judhistira - 13523112
